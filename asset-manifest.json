@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/CultBeauty/static/css/main.7a59986f.css",
+    "main.js": "/CultBeauty/static/js/main.3f0f5773.js",
+    "static/js/453.31566d29.chunk.js": "/CultBeauty/static/js/453.31566d29.chunk.js",
+    "static/media/hotdeal1.png": "/CultBeauty/static/media/hotdeal1.02d538a02a8f08025f18.png",
+    "static/media/back-category-flower.png": "/CultBeauty/static/media/back-category-flower.1a3cfa6464e423648f26.png",
+    "static/media/shop-women.png": "/CultBeauty/static/media/shop-women.8e330d701031b5139006.png",
+    "static/media/hero-image.png": "/CultBeauty/static/media/hero-image.6488bd35426c50e50b47.png",
+    "static/media/hotdeal2.png": "/CultBeauty/static/media/hotdeal2.42a326674075bb702b48.png",
+    "static/media/pink-hero-flower.png": "/CultBeauty/static/media/pink-hero-flower.d0d3fec97675753b0e79.png",
+    "static/media/refer-flower.png": "/CultBeauty/static/media/refer-flower.9da11a953bf952723e8b.png",
+    "static/media/Makeup.png": "/CultBeauty/static/media/Makeup.2a20dab1d4e82709a609.png",
+    "static/media/Haircare.png": "/CultBeauty/static/media/Haircare.edc362c73183495897c5.png",
+    "static/media/Fragrances.png": "/CultBeauty/static/media/Fragrances.f44491dc91cb33284bfb.png",
+    "static/media/SkincCare.png": "/CultBeauty/static/media/SkincCare.662db5aeead4e56a3300.png",
+    "static/media/Bath & Body.png": "/CultBeauty/static/media/Bath & Body.d9af8d52fa3c5a947641.png",
+    "static/media/LIPSTICK 1.png": "/CultBeauty/static/media/LIPSTICK 1.c077b1e0f45479b5bb83.png",
+    "static/media/perfume 1.png": "/CultBeauty/static/media/perfume 1.b1be3a52751509b5e60c.png",
+    "static/media/night cream 1.png": "/CultBeauty/static/media/night cream 1.67b0b888a588d76708e9.png",
+    "static/media/hair-serum.png": "/CultBeauty/static/media/hair-serum.ff35abfd44cb6e165722.png",
+    "index.html": "/CultBeauty/index.html",
+    "main.7a59986f.css.map": "/CultBeauty/static/css/main.7a59986f.css.map",
+    "main.3f0f5773.js.map": "/CultBeauty/static/js/main.3f0f5773.js.map",
+    "453.31566d29.chunk.js.map": "/CultBeauty/static/js/453.31566d29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a59986f.css",
+    "static/js/main.3f0f5773.js"
+  ]
+}
