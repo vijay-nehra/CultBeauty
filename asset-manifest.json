@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CultBeauty/static/css/main.7a59986f.css",
-    "main.js": "/CultBeauty/static/js/main.3f0f5773.js",
+    "main.css": "/CultBeauty/static/css/main.e04fcfbe.css",
+    "main.js": "/CultBeauty/static/js/main.be692738.js",
     "static/js/453.31566d29.chunk.js": "/CultBeauty/static/js/453.31566d29.chunk.js",
     "static/media/hotdeal1.png": "/CultBeauty/static/media/hotdeal1.02d538a02a8f08025f18.png",
     "static/media/back-category-flower.png": "/CultBeauty/static/media/back-category-flower.1a3cfa6464e423648f26.png",
@@ -20,12 +20,12 @@
     "static/media/night cream 1.png": "/CultBeauty/static/media/night cream 1.67b0b888a588d76708e9.png",
     "static/media/hair-serum.png": "/CultBeauty/static/media/hair-serum.ff35abfd44cb6e165722.png",
     "index.html": "/CultBeauty/index.html",
-    "main.7a59986f.css.map": "/CultBeauty/static/css/main.7a59986f.css.map",
-    "main.3f0f5773.js.map": "/CultBeauty/static/js/main.3f0f5773.js.map",
+    "main.e04fcfbe.css.map": "/CultBeauty/static/css/main.e04fcfbe.css.map",
+    "main.be692738.js.map": "/CultBeauty/static/js/main.be692738.js.map",
     "453.31566d29.chunk.js.map": "/CultBeauty/static/js/453.31566d29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a59986f.css",
-    "static/js/main.3f0f5773.js"
+    "static/css/main.e04fcfbe.css",
+    "static/js/main.be692738.js"
   ]
 }
