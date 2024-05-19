@@ -47,9 +47,9 @@ function App() {
                     <li className="navbar-dropdown">
                         <a href="#">Categories &#8595;</a>
                         <div className="dropdown">
-                            <a href="#">Categories1</a>
-                            <a href="#">Categories2</a>
-                            <a href="#">Categories3</a>
+                            <a href="#">Skin Care</a>
+                            <a href="#">Bath & Body</a>
+                            <a href="#">Makeup</a>
                         </div>
                     </li>
                     <li className="navbar-dropdown">
